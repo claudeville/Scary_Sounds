@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 7rem;
+  color: #DBEDF3;
+  font-family: "Grenze Gotisch";
+  text-shadow: 3px 0 #FF69B4;
+
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: "Grenze Gotisch", sans-serif;
+}
+
+.s {
+  background-image: url("images/blackcat.jpg");
+
+}
+
+.c {
+  background-image: url("images/werewolf.jpg");
+
+}
+
+.a {
+  background-image: url("images/fangs.jpg");
+
+
+}
+
+.r {
+  background-image: url("images/ghost.jpg");
+
+}
+
+.y {
+  background-image: url("images/skull.jpg");
+
+}
+
+
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: pink;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.pink {
+  color: pink;
+}
+
+.scary {
+  outline: none;
+  border: 10px solid #FAF9F6;
+  font-size: 2rem;
+  font-family: 'Grenze Gotisch', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #FF69B4;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: left;
+  margin: 10px;
+  background-color: white;
+}
